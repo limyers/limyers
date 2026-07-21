@@ -34,6 +34,4 @@ Undergraduate student at **UC Berkeley** double majoring in **Astrophysics** & *
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limyers&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-</p>
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=limyers&show_icons=true&theme=tokyonight&hide_border=true)
