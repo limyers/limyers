@@ -28,7 +28,7 @@ Undergraduate student at **UC Berkeley** double majoring in **Astrophysics** & *
 - **Languages & Tools:** Python (NumPy, SciPy, Pandas, Matplotlib, Astropy), Java, Bash/Shell, PyTorch, LaTeX, JSON, Git/GitHub, Unix/Linux
 - **Machine Learning & Modeling:** LSTMs, Time-Series Forecasting, Gradient Descent Optimization, Parameter Estimation
 - **Astrophysical Research:** Observational Cosmology, Distance Ladder Calibration (TRGB, SN 1a), Microlensing Light Curve Analysis, Technical Documentation
-- **Engineering & Hardware:** Autodesk Fusion 360 (CAD), Rapid Prototypung, Microgravity Flight Operations, Payload Systems Engineering
+- **Engineering & Hardware:** Autodesk Fusion 360 (CAD), Rapid Prototyping, Microgravity Flight Operations, Payload Systems Engineering
 
 ---
 
