@@ -9,6 +9,7 @@ I am second-year undergraduate student at **UC Berkeley**, double majoring in **
 - 🔭 **Currently Working On:** Participating in the **Cosmoverse Data Challenge**, analyzing astronomical datasets to calculate distances using the Tip of the Red Giant Branch (TRGB) from Type Ia supernova host galaxies to measure the Hubble constant ($H_0$).
 - 💬 **Interests:** Computational astrophysics, machine learning, gravitational lensing, and space systems engineering.
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lily-myers-03949828b/) | [Email](mailto:lilymyers@berkeley.edu)
+- 📄 **[View My Resume (PDF)](https://github.com/limyers/limyers/blob/main/Lily_Myers_Resume.pdf)**
 
 --- 
 
