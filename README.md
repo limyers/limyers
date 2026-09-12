@@ -8,7 +8,7 @@ I am second-year undergraduate student at **UC Berkeley**, double majoring in **
 
 - 🔭 **Currently Working On:** Currently translating legacy Fortran 90 scientific code into optimized Python to simulate thermodynamic vapor-driven ice jets in Enceladus's fissures.
 - 💬 **Interests:** Computational astrophysics and geophysics, machine learning, gravitational lensing, and space systems engineering.
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lily-myers-03949828b/) | [Email](mailto:lilymyers@berkeley.edu)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lily-myers-03949828b/) | [Email](mailto:lily_myers@berkeley.edu)
 - 📄 **Documents:** [Resume (PDF)](https://github.com/limyers/limyers/blob/main/Lily_Myers_Resume.pdf) | [Transcript (PDF)](https://github.com/limyers/limyers/blob/main/Lily_Myers_UC_Berkeley_Unofficial_Transcript.pdf)
 
 --- 
